@@ -69,11 +69,39 @@ ___
 
 ## 6.¿Qué diferencia existe entre los lenguajes declarativos y los imperativos?. Nombra al menos 2 de cada tipo.
 
-7.     ¿Explica qué es compilar? ¿Explica qué es interpretar?
+En el llenguatge **imperatiu**, li diem al compilador que volem (**what we want**):
 
-8.     Ventajas de los lenguajes compilados.
+>  d'aquesta biblioteca amb 5 números: {1, 2, 3, 4, 5} , vull que llegeixis 1 x 1 i hem diguis si és par.
 
-9.     Ventajas de los lenguajes interpretados.
+En el llenguatge **declaratiu**, lo que fa és:
+
+> de la bilioteca anterior, diguem tots els números pars.
+
+\
+{6}
+
+## 7.¿Explica qué es compilar? ¿Explica qué es interpretar?
+\
+**Compilar** ve a ser quan és trodueix el codi font a codi executable.
+**Interpretar** s'encarrega d'interpretar el codi (executant sentencia per sentencia ) i traduir el codi font
+
+\
+{7}
+
+## 8.Ventajas de los lenguajes compilados.
+\
+Els avantatges d'aquest són:
+- No necessita un programa extern per a ser executat una vegada que ha estat compilat, ja que aquest crea un nou arxiu independent que no necessita cap altre programa.
+- Garanteix la seguretat del codi font. Per exemple en el llenguatge interpretat qualsevol persona pot modificar el codi.
+
+\
+{8}
+
+## 9.Ventajas de los lenguajes interpretados.
+Aquest codi no necessita ser processat mitjançant un compilador. Això significa que l'ordinador és capaç d'executar les instruccions sense necessitat de llegir i traduir exhaustivament tot el codi.
+
+\
+{9}
 
 10.  Pon un ejemplo de lenguaje de los siguientes tipos:
 
