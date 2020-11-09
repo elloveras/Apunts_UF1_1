@@ -42,7 +42,7 @@ El codi **html**
 
  **Códi Executable**: L'encarregat d'executar les instruccions donades en el codi font.
  
- \
+ 
  
 >Exemple:
 Un  **.EXE**
