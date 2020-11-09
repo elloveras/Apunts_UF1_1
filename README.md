@@ -23,7 +23,7 @@ Bàsicament uns depenen dels altres.
 
 
 ## 4.  Define los siguientes conceptos:
->-  **Códig font**: El codi font es pot definir com l'arxiu del programa el qual compte les instruccions.
+  **Códig font**: El codi font es pot definir com l'arxiu del programa el qual compte les instruccions.
 >>Exemple:
 El codi **html** 
 -  Códig objecte.
