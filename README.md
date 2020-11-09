@@ -35,12 +35,12 @@ Bàsicament uns depenen dels altres.
 >Exemple:
 El codi **html** 
 
-
+\
  **Códi Objecte**: El codi Objecte és el resultat de la compilació del **codi font**, és represtenta com un arxiu en binari. 
->Exemple:
-Un  **.EXE**
+\
 
  **Códi Executable**: L'encarregat d'executar les instruccions donades en el codi font.
+ \
 >Exemple:
 Un  **.EXE**
 
