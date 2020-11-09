@@ -74,10 +74,14 @@ ___
 En el llenguatge **imperatiu**, li diem al compilador que volem (**what we want**):
 
 >  d'aquesta biblioteca amb 5 números: {1, 2, 3, 4, 5} , vull que llegeixis 1 x 1 i hem diguis si és par.
+\
+ EXEMPLE: {  C++, PHP  }
 
 En el llenguatge **declaratiu**, lo que fa és:
 
 > de la bilioteca anterior, diguem tots els números pars.
+\
+ EXEMPLE: { Prolog,Lisp }
 
 \
 {6}
