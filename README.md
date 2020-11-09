@@ -16,15 +16,15 @@ Bàsicament uns depenen dels altres.
 
 **Per exemple:**
 
->  El disc dur i la ram: Són la memòria de l'ordinador, sense memòria no podrem guardar dades ni  podrem guardar el mateix S.O.
+>  **El disc dur i la ram**: Són la memòria de l'ordinador, sense memòria no podrem guardar dades ni  podrem guardar el mateix S.O.
 
->> La CPU: sense la CPU l'ordinador no pot fer accions o executar instruccions, bàsicament no podrem fer res. Tampoc ens permetrà executar el software ( el programari ) del S.O que estiguem utilitzant.
+> **La CPU**: sense la CPU l'ordinador no pot fer accions o executar instruccions, bàsicament no podrem fer res. Tampoc ens permetrà executar el software ( el programari ) del S.O que estiguem utilitzant.
 
 
 
 ## 4.  Define los siguientes conceptos:
   **Códig font**: El codi font es pot definir com l'arxiu del programa el qual compte les instruccions.
->>Exemple:
+>Exemple:
 El codi **html** 
 -  Códig objecte.
 -  Códig executable.
