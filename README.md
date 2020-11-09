@@ -1,5 +1,4 @@
 # Apunts_UF1_1
-
 ## 2. Haz una clasificación del software.
 
 
@@ -17,18 +16,26 @@ Bàsicament uns depenen dels altres.
 
 **Per exemple:**
 
->  **El disc dur i la ram**: Són la memòria de l'ordinador, sense memòria no podrem guardar dades ni  podrem guardar el mateix S.O.
+>  **El disc dur i la ram**: Són la "memòria" de l'ordinador, sense memòria no podrem guardar dades ni podrem guardar el mateix S.O i tanmateix no podrem executar instruccions.
 
 > **La CPU**: sense la CPU l'ordinador no pot fer accions o executar instruccions, bàsicament no podrem fer res. Tampoc ens permetrà executar el software ( el programari ) del S.O que estiguem utilitzant.
 
 
 
 ## 4.  Define los siguientes conceptos:
-  **Códig font**: El codi font es pot definir com l'arxiu del programa el qual compte les instruccions.
+  **Códi font**: El codi font es pot definir com l'arxiu del programa el qual compte les instruccions.
 >Exemple:
 El codi **html** 
--  Códig objecte.
--  Códig executable.
+
+ **Códi Objecte**: El codi Objecte és l'arxiu creat quan el compilador del **codi font** a **codi maquina** ho també anomenat **codi objecte**, un archiu en binari. 
+>Exemple:
+Un  **.EXE**
+
+ **Códi Executable**: L'encarregat d'executar les instruccions donades en el codi font.
+>Exemple:
+Un  **.EXE** , aquest araxius
+
+
 
 FASE DESENVOLUPAMENT SOFTWARE
 ANALISIS 
