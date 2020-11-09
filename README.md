@@ -4,7 +4,7 @@
 >[https://github.com/elloveras/Apunts_UF1_1.git](https://github.com/elloveras/Apunts_UF1_1.git)
 
 
-
+\
 ## 2. Haz una clasificación del software.  
 
 
