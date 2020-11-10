@@ -15,7 +15,6 @@
 | **RAM**            | 	Guarda de forma temporal el codig binari dels arxius executables entre altres        | [**RAM**](https://www.pccomponentes.com/memoria-ram-kingston-hyperx-impact-sodimm-ddr4-3200mhz-8gb-cl20)      |
 |**CPU**             |Llegeix i executa el diferent programari , entre diferentes instruccions         |[**CPU**](https://www.pccomponentes.com/nox-hummer-h-212-cpu-cooler)            |
 |**E / S**           |Els perifèrics d’entrada i sortida.       |[**Entrada**](https://www.pccomponentes.com/logitech-wireless-combo-mk270-teclado-inalambrico)    - [**Sortida**](https://www.pccomponentes.com/benq-gw2780e-27-led-ips-eye-care)      |
-
 \
 {2}
 ## 3. Describe la relación que existe entre los componentes hardware principales de un computador y el almacenamiento y ejecución del software.
@@ -110,11 +109,23 @@ Aquest codi no necessita ser processat mitjançant un compilador. Això signific
 \
 {9}
 
-10.  Pon un ejemplo de lenguaje de los siguientes tipos:
+## 10.  Pon un ejemplo de lenguaje de los siguientes tipos:
 
-·       Bajo nivel.
+·       **Bajo nivel**:  Un llenguatge de programació de característiques baix nivell és aquell en el qual les seves instruccions exerceixen un control directe sobre el maquinari.
 
-·       Alto nivel.
+·       **Alto nivel**: Els llenguatges de programació d'alt nivell són llenguatges de programació en els quals les instruccions que s'envien perquè l'ordinador executi algunes ordres són semblants al llenguatge humà
 
-11.  Explica qué criterios pueden seguirse a la hora de elegir un lenguaje de programación para el desarrollo software.
+\
+{10}
 
+## 11.  Explica qué criterios pueden seguirse a la hora de elegir un lenguaje de programación para el desarrollo software.
+
+
+
+Principalment, depèn el tiups de llenguatge que vols fer, si vols fer html buscaràs un programa que tingui les característiques bàsiques / mínimes per a poder programar-ho. SI vols programar java, necessitaràs un altre programa que pugi executar el codi.
+
+ 
+Després ja entra el tema visual, que alguns fan mal d'ulls
+
+\
+{11}
