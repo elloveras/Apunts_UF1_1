@@ -15,6 +15,7 @@
 | **RAM**            | 	Guarda de forma temporal el codig binari dels arxius executables entre altres        | [**RAM**](https://www.pccomponentes.com/memoria-ram-kingston-hyperx-impact-sodimm-ddr4-3200mhz-8gb-cl20)      |
 |**CPU**             |Llegeix i executa el diferent programari , entre diferentes instruccions         |[**CPU**](https://www.pccomponentes.com/nox-hummer-h-212-cpu-cooler)            |
 |**E / S**           |Els perifèrics d’entrada i sortida.       |[**Entrada**](https://www.pccomponentes.com/logitech-wireless-combo-mk270-teclado-inalambrico)    - [**Sortida**](https://www.pccomponentes.com/benq-gw2780e-27-led-ips-eye-care)      |
+
 \
 {2}
 ## 3. Describe la relación que existe entre los componentes hardware principales de un computador y el almacenamiento y ejecución del software.
