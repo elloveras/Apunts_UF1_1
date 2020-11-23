@@ -15,10 +15,14 @@
 | **RAM**            | 	Guarda de forma temporal el codig binari dels arxius executables entre altres        | [**RAM**](https://www.pccomponentes.com/memoria-ram-kingston-hyperx-impact-sodimm-ddr4-3200mhz-8gb-cl20)      |
 |**CPU**             |Llegeix i executa el diferent programari , entre diferentes instruccions         |[**CPU**](https://www.pccomponentes.com/nox-hummer-h-212-cpu-cooler)            |
 |**E / S**           |Els perifèrics d’entrada i sortida.       |[**Entrada**](https://www.pccomponentes.com/logitech-wireless-combo-mk270-teclado-inalambrico)    - [**Sortida**](https://www.pccomponentes.com/benq-gw2780e-27-led-ips-eye-care)      |
+
 \
 {2}
+
 ## 3. Describe la relación que existe entre los componentes hardware principales de un computador y el almacenamiento y ejecución del software.
+
 \
+
 Bàsicament uns depenen dels altres.
 
 **Per exemple:**
@@ -49,6 +53,7 @@ Un  **.EXE**
 
 \
 {4}
+
 ## 5.  Nombra las fases principales del desarrollo de software y explica brevemente que se hace en cada una de ellas.
 
 |       | Descripció | 
@@ -59,13 +64,26 @@ Un  **.EXE**
 |**PROVES**| Toca comprovar que TOT funcioni correctament sense cap error!
 |**MANTENIMENT**| Mantenir el software actualitzat per tal de corretgir falles, millorar el funcionament, afegir noves implementacions i modificar el codi per tal de que no peti en nous entorns. ( Com un S.O nou)
 
- 
+
+DIFERENTES MODELS MÉS UTILITZATS:
+
+1. **Model en cascada**:  Fins que la fase no agi acabat no és pot avanzar a la següent.
+2. **Model en V**: Bàsicament té una estructura de forma V.
 
 
 
 
 \
 {5}
+
+
+
+
+
+
+
+
+
 ___
 # 2a Part:
 
