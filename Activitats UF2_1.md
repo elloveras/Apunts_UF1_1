@@ -64,8 +64,9 @@ ___
 
 **NO FUNCIONALES**
 
-.2. Rendimiento
-3. Stress
+1. Rendimiento
+2. Stress
+3. Compatibilidad
 4. De Seguridad
 
 
