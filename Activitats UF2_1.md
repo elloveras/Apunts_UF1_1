@@ -18,12 +18,13 @@ Pues, igual que he dicho en el ejercicio 2, dichas pruebas tienen la finalidad d
 
 Por lo que hemos aprendido, solo existen dos tipos de pruebas: 
 
-|       | DESCRIPCIÓN |
-| :---        |    :----   |
-|  **Disc Dur**      | 	Guarda les dades permanentment.       |  
-| **RAM**            | 	Guarda de forma temporal el codig binari dels arxius executables entre altres        |
-|**CPU**             |Llegeix i executa el diferent programari , entre diferentes instruccions         |
-|**E / S**           |Els perifèrics d’entrada i sortida.       |
+|                     | DESCRIPCIÓN |
+| :---                |    :----    |
+|**FUNCIONALES**      | 	Estas pruebas validan y verifican que el producto cumple con lo especificado, hace lo que debe y cómo lo tiene que hacer.    |  
+|**NO FUNCIONALES**   | 	Las pruebas No Funcionales se centran en aspectos muy importantes del comportamiento del producto pero que no están relacionados con las funciones que realiza el sistema.   |
+
+
+
 \
 {5}
 
