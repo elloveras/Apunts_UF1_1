@@ -55,6 +55,16 @@ ___
 
 ## 9 Nombra al menos 4 pruebas funcionales y 4 no funcionales.
 
+**FUNCIONALES**
 
+1. Unitarias
+2. Regresión
+3. Integración
+4. Del Sistema
 
+**NO FUNCIONALES^^
 
+1. Usabilidad
+2. Rendimiento
+3. Stress
+4. De Seguridad
