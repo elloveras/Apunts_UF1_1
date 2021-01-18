@@ -27,8 +27,6 @@ LAS **FUNCIONALES** Y LAS **NO FUNCIONALES**  ( descripción de estas más abajo
 
 
 
-\
-{5}
 
 
 
@@ -52,6 +50,8 @@ ___
 | :---                |    :----    |
 |**FUNCIONALES**      | 	Estas pruebas validan y verifican que el producto cumple con lo especificado, hace lo que debe y cómo lo tiene que hacer.    |  
 |**NO FUNCIONALES**   | 	Las pruebas No Funcionales se centran en aspectos muy importantes del comportamiento del producto pero que no están relacionados con las funciones que realiza el sistema.   |
+
+## 9 Nombra al menos 4 pruebas funcionales y 4 no funcionales.
 
 
 
