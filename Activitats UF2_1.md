@@ -24,6 +24,11 @@ Por lo que hemos aprendido, solo existen dos tipos de pruebas:
 |**NO FUNCIONALES**   | 	Las pruebas No Funcionales se centran en aspectos muy importantes del comportamiento del producto pero que no están relacionados con las funciones que realiza el sistema.   |
 
 
+## 5. Busca una definición del término Framework. Expresa dicha definición con tus palabras.
+
+>  Un framework és básicmanete una estructura donde se encuentran diferentes herramientas / módulos que se pueden usar en más de un proyecto.
+
+
 
 \
 {5}
