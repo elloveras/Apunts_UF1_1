@@ -19,6 +19,7 @@ Pues, igual que he dicho en el ejercicio 2, dichas pruebas tienen la finalidad d
 Por lo que hemos aprendido, solo existen dos tipos de pruebas: 
 
 |   TIPO  | DESCRIPCIÓN | 
+| :---        |    :----   |          ---: |
 |**FUNCIONALES**|         |
 |**NO FUNCIONALES**|         |
 
