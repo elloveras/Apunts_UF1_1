@@ -15,6 +15,13 @@ Por mi parte creo que se refiera a testear nuestra creación, és decir si nosot
 Pues, igual que he dicho en el ejercicio 2, dichas pruebas tienen la finalidad de probar nuestro software y asi comrobar que nuestra app/web funcione al 100% sin ningún fallo o BUG
 
 ## 4. ¿Qué tipos de pruebas de software crees que existen?
+
+Por lo que hemos aprendido, solo existen dos tipos de pruebas: 
+
+|   TIPO  | DESCRIPCIÓN | 
+|**FUNCIONALES**|         |
+|**NO FUNCIONALES**|         |
+
 \
 {5}
 
