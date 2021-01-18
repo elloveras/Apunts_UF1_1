@@ -30,10 +30,10 @@ LAS **FUNCIONALES** Y LAS **NO FUNCIONALES**  ( descripción de estas más abajo
 
 \
 \
-\
+\___
 
 
-___
+
 # 2na Part:
 
 ## 6. ¿Qué diferencia existe entre las pruebas estáticas y dinámicas?
