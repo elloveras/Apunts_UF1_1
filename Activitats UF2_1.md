@@ -18,11 +18,12 @@ Pues, igual que he dicho en el ejercicio 2, dichas pruebas tienen la finalidad d
 
 Por lo que hemos aprendido, solo existen dos tipos de pruebas: 
 
-|   TIPO  | DESCRIPCIÓN | 
-| :---        |    :----   |          ---: |
-|**FUNCIONALES**|         |
-|**NO FUNCIONALES**|         |
-
+|       | DESCRIPCIÓN |
+| :---        |    :----   |
+|  **Disc Dur**      | 	Guarda les dades permanentment.       |  
+| **RAM**            | 	Guarda de forma temporal el codig binari dels arxius executables entre altres        |
+|**CPU**             |Llegeix i executa el diferent programari , entre diferentes instruccions         |
+|**E / S**           |Els perifèrics d’entrada i sortida.       |
 \
 {5}
 
