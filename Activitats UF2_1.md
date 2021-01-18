@@ -18,10 +18,7 @@ Pues, igual que he dicho en el ejercicio 2, dichas pruebas tienen la finalidad d
 
 Por lo que hemos aprendido, solo existen dos tipos de pruebas: 
 
-|                     | DESCRIPCIÓN |
-| :---                |    :----    |
-|**FUNCIONALES**      | 	Estas pruebas validan y verifican que el producto cumple con lo especificado, hace lo que debe y cómo lo tiene que hacer.    |  
-|**NO FUNCIONALES**   | 	Las pruebas No Funcionales se centran en aspectos muy importantes del comportamiento del producto pero que no están relacionados con las funciones que realiza el sistema.   |
+LAS **FUNCIONALES** Y LAS **NO FUNCIONALES**  ( descripción de estas más abajo )
 
 
 ## 5. Busca una definición del término Framework. Expresa dicha definición con tus palabras.
@@ -49,7 +46,12 @@ ___
 **CAJA NEGRA:**  En la caja negra, nos fijamos más en el resultado del código, sin importarnos el processo. 
 **CAJA BLANCA:** En la caja blanca, nos fijamos más en el código, en resumen, nos fijamos más en el processo.
 
+## 8.     ¿Qué diferencia existe entre las pruebas funcionales y no funcionales?
 
+|                     | DESCRIPCIÓN |
+| :---                |    :----    |
+|**FUNCIONALES**      | 	Estas pruebas validan y verifican que el producto cumple con lo especificado, hace lo que debe y cómo lo tiene que hacer.    |  
+|**NO FUNCIONALES**   | 	Las pruebas No Funcionales se centran en aspectos muy importantes del comportamiento del producto pero que no están relacionados con las funciones que realiza el sistema.   |
 
 
 
