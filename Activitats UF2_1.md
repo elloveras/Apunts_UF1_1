@@ -10,10 +10,11 @@ ___
 
 Por mi parte creo que se refiera a testear nuestra creación, és decir si nosotros desemvolupamos algo, tendremos que saber si funciona ya que al ser humanos podemos cometer errores, entonces estas pruebas nos sirven para testear y comprobar que nuestra aplicación o web esté funcionando al 100%
 
+## 3. ¿Qué finalidad crees que se persigue cuando se hacen pruebas de software?
 
+Pues, igual que he dicho en el ejercicio 2, dichas pruebas tienen la finalidad de probar nuestro software y asi comrobar que nuestra app/web funcione al 100% sin ningún fallo o BUG
 
-
-
+## 4. ¿Qué tipos de pruebas de software crees que existen?
 \
 {5}
 
