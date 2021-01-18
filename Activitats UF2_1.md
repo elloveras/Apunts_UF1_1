@@ -30,7 +30,7 @@ LAS **FUNCIONALES** Y LAS **NO FUNCIONALES**  ( descripción de estas más abajo
 
 \
 \
-\___
+___
 
 
 
