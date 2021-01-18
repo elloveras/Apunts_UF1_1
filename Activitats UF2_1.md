@@ -64,8 +64,7 @@ ___
 
 **NO FUNCIONALES**
 
-1. Usabilidad
-2. Rendimiento
+.2. Rendimiento
 3. Stress
 4. De Seguridad
 
@@ -73,5 +72,10 @@ ___
 ## 10.   ¿Qué son las pruebas unitarias o pruebas de unidad?
 
 Las **pruebas unitarias / pruebas de unidad**, se basan en pruebas sobre los componentes/unidades más pequeñas de nuestro codigo fuente, como por ejemplo los flujos lógicos y de datos, y los comportamientos de función y observables de la unidad.
+
+## 11 ¿Qué son las pruebas de regresión?
+
+Se basan en intentar identificar errores de regressión, estos se producen cuando una funcionalidad que funcionaba falla
+
 
 
