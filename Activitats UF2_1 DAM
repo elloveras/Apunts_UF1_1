@@ -1,74 +1,15 @@
 # Apunts_UF1_1
 
-  ## 1. Link al repositori de GitHub
+  ## LINK. Link al repositori de GitHub
 >[https://github.com/elloveras/Apunts_UF1_1.git](https://github.com/elloveras/Apunts_UF1_1.git)
 
+___
+# 1ra Part:
 
+## 2. ¿A qué crees que nos referimos cuando hablamos de pruebas del software?
 
-## 2. Haz una clasificación del software.  
+Por mi parte creo que se refiera a testear nuestra creación, és decir si nosotros desemvolupamos algo, tendremos que saber si funciona ya que al ser humanos podemos cometer errores, entonces estas pruebas nos sirven para testear y comprobar que nuestra aplicación o web esté funcionando al 100%
 
-
-
-|       | SOFTWARE | Exemple|
-| :---        |    :----   |          ---: |
-|  **Disc Dur**      | 	Guarda les dades permanentment.       |  [**DiscDur**](https://www.pccomponentes.com/seagate-barracuda-35-1tb-sata3)  |
-| **RAM**            | 	Guarda de forma temporal el codig binari dels arxius executables entre altres        | [**RAM**](https://www.pccomponentes.com/memoria-ram-kingston-hyperx-impact-sodimm-ddr4-3200mhz-8gb-cl20)      |
-|**CPU**             |Llegeix i executa el diferent programari , entre diferentes instruccions         |[**CPU**](https://www.pccomponentes.com/nox-hummer-h-212-cpu-cooler)            |
-|**E / S**           |Els perifèrics d’entrada i sortida.       |[**Entrada**](https://www.pccomponentes.com/logitech-wireless-combo-mk270-teclado-inalambrico)    - [**Sortida**](https://www.pccomponentes.com/benq-gw2780e-27-led-ips-eye-care)      |
-
-\
-{2}
-
-## 3. Describe la relación que existe entre los componentes hardware principales de un computador y el almacenamiento y ejecución del software.
-
-\
-
-Bàsicament uns depenen dels altres.
-
-**Per exemple:**
-
->  **El disc dur i la ram**: Són la "memòria" de l'ordinador, sense memòria no podrem guardar dades ni podrem guardar el mateix S.O i tanmateix no podrem executar instruccions.
-
-> **La CPU**: sense la CPU l'ordinador no pot fer accions o executar instruccions, bàsicament no podrem fer res. Tampoc ens permetrà executar el software ( el programari ) del S.O que estiguem utilitzant.
-
-\
-{3}
-
-## 4.  Define los siguientes conceptos:
-  **Códi font**: El codi font es pot definir com l'arxiu del programa el qual compte les instruccions.
->Exemple:
-El codi **html** 
-
-\
- **Códi Objecte**: El codi Objecte és el resultat de la compilació del **codi font**, és represtenta com un arxiu en binari. 
- 
-\
- **Códi Executable**: L'encarregat d'executar les instruccions donades en el codi font.
- 
- 
- 
->Exemple:
-Un  **.EXE**
-
-
-\
-{4}
-
-## 5.  Nombra las fases principales del desarrollo de software y explica brevemente que se hace en cada una de ellas.
-
-|       | Descripció | 
-| :---        |    :----:   |     
-| **ANALISIS**      |  És l'hora a parlar amb el client sobre els requisits que ha de complir el software     | 
-| **DISSENY**   | S'elabora el disseny de dades, de la interfície, arquitectònic i detallat, on s'explicarà quins elements s'implementaran en el software, la seva funcionalitat i la relació entre ells.
-| **CODIFICAIO**  |   En la fase de codificació, ha arribat l'hora de moure els dits i programar el codi del SFTW.
-|**PROVES**| Toca comprovar que TOT funcioni correctament sense cap error!
-|**MANTENIMENT**| Mantenir el software actualitzat per tal de corretgir falles, millorar el funcionament, afegir noves implementacions i modificar el codi per tal de que no peti en nous entorns. ( Com un S.O nou)
-
-
-DIFERENTES MODELS MÉS UTILITZATS:
-
-1. **Model en cascada**:  Fins que la fase no agi acabat no és pot avanzar a la següent.
-2. **Model en V**: Bàsicament té una estructura de forma V.
 
 
 
@@ -85,7 +26,7 @@ DIFERENTES MODELS MÉS UTILITZATS:
 
 
 ___
-# 2a Part:
+# 2na Part:
 
 ## 6.¿Qué diferencia existe entre los lenguajes declarativos y los imperativos?. Nombra al menos 2 de cada tipo.
 
