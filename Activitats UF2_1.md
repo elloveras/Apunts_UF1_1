@@ -36,72 +36,21 @@ Por lo que hemos aprendido, solo existen dos tipos de pruebas:
 
 
 
-
-
-
-
-
 ___
 # 2na Part:
 
-## 6.¿Qué diferencia existe entre los lenguajes declarativos y los imperativos?. Nombra al menos 2 de cada tipo.
+## 6. ¿Qué diferencia existe entre las pruebas estáticas y dinámicas?
 
-En el llenguatge **imperatiu**, li diem al compilador que volem (**what we want**):
+**DINÁMICAS:** Nos preocupa más la salida por pantalla  és decir, en terminos bulgares el "FRONT END"
+**ESTÁTICAS:** Nos interesa más el contenido de l'aplicativo, como está crado, que implementa...
 
->  d'aquesta biblioteca amb 5 números: {1, 2, 3, 4, 5} , vull que llegeixis 1 x 1 i hem diguis si és par.
-\
- EXEMPLE: {  C++, PHP  }
+## 7. ¿Qué diferencia existe entre las pruebas de caja negra y caja blanca?
 
-En el llenguatge **declaratiu**, lo que fa és:
-
-> de la bilioteca anterior, diguem tots els números pars.
-\
- EXEMPLE: { Prolog,Lisp }
-
-\
-{6}
-
-## 7.¿Explica qué es compilar? ¿Explica qué es interpretar?
-\
-**Compilar** ve a ser quan és trodueix el codi font a codi executable.
-**Interpretar** s'encarrega d'interpretar el codi (executant sentencia per sentencia ) i traduir el codi font
-
-\
-{7}
-
-## 8.Ventajas de los lenguajes compilados.
-\
-Els avantatges d'aquest són:
-- No necessita un programa extern per a ser executat una vegada que ha estat compilat, ja que aquest crea un nou arxiu independent que no necessita cap altre programa.
-- Garanteix la seguretat del codi font. Per exemple en el llenguatge interpretat qualsevol persona pot modificar el codi.
-
-\
-{8}
-
-## 9.Ventajas de los lenguajes interpretados.
-Aquest codi no necessita ser processat mitjançant un compilador. Això significa que l'ordinador és capaç d'executar les instruccions sense necessitat de llegir i traduir exhaustivament tot el codi.
-
-\
-{9}
-
-## 10.  Pon un ejemplo de lenguaje de los siguientes tipos:
-
-·       **Bajo nivel**:  Un llenguatge de programació de característiques baix nivell és aquell en el qual les seves instruccions exerceixen un control directe sobre el maquinari.
-
-·       **Alto nivel**: Els llenguatges de programació d'alt nivell són llenguatges de programació en els quals les instruccions que s'envien perquè l'ordinador executi algunes ordres són semblants al llenguatge humà
-
-\
-{10}
-
-## 11.  Explica qué criterios pueden seguirse a la hora de elegir un lenguaje de programación para el desarrollo software.
+**CAJA NEGRA:**  En la caja negra, nos fijamos más en el resultado del código, sin importarnos el processo. 
+**CAJA BLANCA:** En la caja blanca, nos fijamos más en el código, en resumen, nos fijamos más en el processo.
 
 
 
-Principalment, depèn el tiups de llenguatge que vols fer, si vols fer html buscaràs un programa que tingui les característiques bàsiques / mínimes per a poder programar-ho. SI vols programar java, necessitaràs un altre programa que pugi executar el codi.
 
- 
-Després ja entra el tema visual, que alguns fan mal d'ulls
 
-\
-{11}
 
