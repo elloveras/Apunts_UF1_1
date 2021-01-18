@@ -62,9 +62,16 @@ ___
 3. Integración
 4. Del Sistema
 
-**NO FUNCIONALES^^
+**NO FUNCIONALES**
 
 1. Usabilidad
 2. Rendimiento
 3. Stress
 4. De Seguridad
+
+
+## 10.   ¿Qué son las pruebas unitarias o pruebas de unidad?
+
+Las **pruebas unitarias / pruebas de unidad**, se basan en pruebas sobre los componentes/unidades más pequeñas de nuestro codigo fuente, como por ejemplo los flujos lógicos y de datos, y los comportamientos de función y observables de la unidad.
+
+
