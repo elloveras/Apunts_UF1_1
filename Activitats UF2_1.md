@@ -29,7 +29,9 @@ LAS **FUNCIONALES** Y LAS **NO FUNCIONALES**  ( descripción de estas más abajo
 
 
 \
-{-}
+\
+\
+{ }
 
 ___
 # 2na Part:
