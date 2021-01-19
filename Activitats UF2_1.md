@@ -80,3 +80,19 @@ Se basan en intentar identificar errores de regressión, estos se producen cuand
 
 
 
+\
+\
+___
+
+
+
+# 3ra Part:
+
+## 12.    ¿Indica al menos 3 servicios web de Integración Continua?
+
+1.Jenkins
+2. Bamboo
+3. TravisCI
+
+
+
