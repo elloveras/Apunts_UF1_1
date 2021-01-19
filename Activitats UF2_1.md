@@ -94,5 +94,24 @@ ___
 2. Bamboo
 3. TravisCI
 
+\
+\
+___
+
+# 4ta Part:
+
+## 14.    ¿Qué significan las siglas QA y QC? ¿Qué diferencia existe entre ellas?
+
+**QA o Quality Assurance**
+És un conjunt d'activitats per garantir la qualitat del procés mitjançant els quals sutilitzen per desenvolupar el producte. 
+**QC o Qualitay Control**
+Les seves activitats és centren més en identificar defectes en els productes.
 
 
+## 15.    Explica brevemente cada uno de los factores de calidad que aparecen en las diapositivas.
+
+Aquests facotrs s'aagrupen en 3 hambits:
+
+**OPERACIÓ DEL PRODUCTE**: És on es tracten les característiques del producte.
+**REVISIÓ DEL PRODUCTE**: La capacitat de soportar cambis.
+**TRANSICIÓ DEL PRODUCTE**: Poder adaptar-se a nous entorns
